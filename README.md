@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 WORK IN PROGRESS
-<figure>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fpt%2Fgifs%2Fnot-south-park-xxx&psig=AOvVaw1JB5qalKUmFxlpJsyg2Yrl&ust=1675823405408000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLie8JDUgv0CFQAAAAAdAAAAABAb" alt="Minha Figura">
-</figure>
+<iframe src="https://gifer.com/embed/dGF" width=480 height=384.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocribeiro&show_icons=true&theme=radical)
