@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rocribeiro=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocribeiro&show_icons=true&theme=transparent)
 
 
 <!--
