@@ -1,4 +1,4 @@
-Olá  
+Olá Sou o Rodrigo um eterno aprendiz das bruxarias da programação. :mage: :star::star::cake:
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocribeiro&show_icons=true&theme=github_dark)
