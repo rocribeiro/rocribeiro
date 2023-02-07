@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-WORK IN PROGRESS
-
-
-
+ 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rocribeiro&show_icons=true&theme=radical)
 
 
