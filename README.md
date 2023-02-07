@@ -6,9 +6,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rocribeiro&layout=demo&custom_title=Tecnologias&nbsp;Utilizadas&theme=github_dark)
 
-<div>
- <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt="https://www.linkedin.com/in/rocribeiro/">
-</div>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rocribeiro/)
 
 
 <!--
