@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 WORK IN PROGRESS
-<div>
-  <iframe  width=480 height=384.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">através de GIFER</a></p>
- </div>
 
 
 
